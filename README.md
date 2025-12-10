@@ -7,7 +7,7 @@
 - **User Authentication & Database Management:** Integrated with Firebase for secure authentication and data storage.  
 - **Customizable Goal Tracking:** Users can choose categories they want to track and complete a daily checklist of achievements.  
 - **Mood Tracking:** Log daily mood alongside achievements to explore patterns over time.  
-- **Reflection & Insights:** A dedicated **Reflection** page provides interactive charts and visualizations to foster self-awareness.  
+- **Reflection & Insights:** A dedicated **Reflection** page provides interactive charts and visualizations (using **Victory Native**) to foster self-awareness.
 
 ## UX Approach
 
