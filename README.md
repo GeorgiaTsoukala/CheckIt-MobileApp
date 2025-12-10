@@ -10,14 +10,16 @@
 - **Streak Tracking:** Tracks consecutive days of logged activities and mood to help users maintain consistency.  
 - **Reflection & Insights:** Provides interactive charts and visualizations (using **Victory Native**) to foster self-awareness.
 
+## Usage
+
+1. **Sign Up or Log In:** Create an account or log in if you already have one.  
+2. **Initial Setup:** On first login, select the categories you want to track and choose specific goals within each category.  
+3. **Home Screen:** View all your categories and goals, including the number of days each goal was completed over the past week and your overall streak of consecutive logging days.  
+4. **Checklist Tab:** Log your daily achievements by checking off the goals you accomplished. After completing the checklist, select an emoji that matches your mood to create the daily log.  
+5. **Reflections Tab:** Explore interactive charts and visualizations showing your performance, achievements, and correlations between mood and goal completion.
+
 ## UX Approach
 
 - Continuous user testing informed the design and functionality of the app.  
 - **Wizard of Oz experiments** tested the impact of push notifications with multiple user groups.  
 - **Think Aloud sessions** were conducted to evaluate the interface and core concept, ensuring an intuitive user experience.  
-
-## Technologies Used
-
-- **React Native** – for building a cross-platform mobile app  
-- **Firebase** – for authentication and database management  
-- **Figma** – for UI/UX design 
