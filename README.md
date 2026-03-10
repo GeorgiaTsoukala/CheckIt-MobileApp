@@ -2,6 +2,16 @@
 
 **Check It** is a cross-platform mobile app built with **React Native** and **Firebase** that helps users define personal goals, track daily achievements and monitor their mood. The app allows users to explore the connection between their accomplishments and emotional well-being through interactive visualizations.  
 
+<table>
+<tr>
+<td><img src="assets/Login.png" width="200"/></td>
+<td><img src="assets/Home.png" width="200"/></td>
+<td><img src="assets/Checklist.png" width="200"/></td>
+<td><img src="assets/Checklist2.png" width="200"/></td>
+<td><img src="assets/Reflections.png" width="200"/></td>
+</tr>
+</table>
+
 ## Features
 
 - **User Authentication & Database Management:** Allows users to securely authenticate and stores data using Firebase.  
